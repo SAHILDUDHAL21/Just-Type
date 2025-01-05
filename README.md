@@ -12,7 +12,7 @@ A Typing practice flutter project that can run on any platform
 
 ![App Screenshot](https://github.com/SAHILDUDHAL21/Just-Type/blob/main/Screenshot%20(139).png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/SAHILDUDHAL21/Just-Type/blob/main/Screenshot%20From%202025-01-05%2010-57-13.png)
 
 ## Installation
 
